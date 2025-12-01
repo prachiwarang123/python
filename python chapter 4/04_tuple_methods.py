@@ -1,0 +1,7 @@
+a = (1,2,5,45,"prachi","akanksha")
+print(a)
+no = a.count(45)
+print(no)
+i = a.index(45)
+print(i)
+#print(type(a))
